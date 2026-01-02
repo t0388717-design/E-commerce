@@ -1,4 +1,2 @@
 hi 
-i am learning jenkins
-djfbgajirhgj
-ADJgnksdnfeknd
+i am learning devops
